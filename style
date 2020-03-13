@@ -1,0 +1,5 @@
+.black{
+    background:black
+    width:300px ;
+    heigth:300px ;
+}
